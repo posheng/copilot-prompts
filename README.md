@@ -1,7 +1,18 @@
 # copilot-prompts
 
+## Making code more concise
 ```
-Make this code more readable
+Make this more concise
+```
+
+## Rewrite conditional code for better readability
+```
+Rewrite the condition to use a switch and use Java 21 syntax with null case, but also add documentation and provide a better function name
+```
+
+## Reformat code
+```
+Refactor the code and make it more readable, but also add documentation and provide a better function name
 ```
 
 ```
