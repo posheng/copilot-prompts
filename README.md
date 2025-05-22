@@ -33,7 +33,7 @@ add a parameter of type String named aidCompany to cntSearch1
 Refactor #sym:loadSoTypeAndLinkTypeMap() and make it more readable, but also add documention
 ```
 
-# .github\copilot-instructions.md
+## .github\copilot-instructions.md
 ```
 Transalte the input into English and then conduct the Q&A in English after the translation.
 ```
