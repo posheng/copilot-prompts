@@ -1,5 +1,10 @@
 # copilot-prompts
 
+## Refactor
+```
+Refactor and make it more readable. I will improve the code organization, naming conventions, and error handling while keeping the functionality intact.
+```
+
 ## Making code more concise
 ```
 Make this more concise
