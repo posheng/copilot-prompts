@@ -20,6 +20,11 @@ Rewrite the condition to use a switch and use Java 21 syntax with null case, but
 Refactor the code and make it more readable, but also add documentation and provide a better function name
 ```
 
+## Comments
+```
+Translate to traditional Chinese for all comments in the code and keep the original English comments as well
+```
+
 ## Presentation
 
 ```
