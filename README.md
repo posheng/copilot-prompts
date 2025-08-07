@@ -25,6 +25,11 @@ Refactor the code and make it more readable, but also add documentation and prov
 Translate to traditional Chinese for all comments in the code and keep the original English comments as well
 ```
 
+## Tunning the shell script
+```
+Tunning the shell script to ensure it runs correctly and efficiently
+```
+
 ## Presentation
 
 ```
